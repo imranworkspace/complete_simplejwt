@@ -1,0 +1,4 @@
+Complete_SimpleJWTToken/complete_simplejwt/myenv
+complete_simplejwt/token_api/migrations/*.pyc
+complete_simplejwt/__pycache__/*.pyc
+complete_simplejwt/token_api/__pycache__/*.pyc
